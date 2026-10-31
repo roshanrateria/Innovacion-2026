@@ -1,17 +1,15 @@
 # Innovacion-2026
 
-## Overview
-
-No repository description is currently provided.
+A full-stack web application organized into client, server, shared, and API code. The repository includes Vite, Tailwind, Drizzle, and deployment configuration.
 
 ## Technology
 
-TypeScript, CSS, HTML, JavaScript, Node.js
+- TypeScript
+- JavaScript
+- React/Vite tooling
+- Tailwind CSS
+- Drizzle
 
-## Repository contents
+## Run
 
-`.gitignore`, `.vercelignore`, `amplify.yml`, `api`, `attached_assets`, `client`, `components.json`, `ddd.txt`, `drizzle.config.ts`, `package-lock.json`, `package.json`, `postcss.config.js`, `server`, `shared`, `tailwind.config.ts`, `tsconfig.json`, `vercel.json`, `vite.config.ts`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Install the Node.js dependencies, then use the scripts in `package.json` for development and production builds.
